@@ -1,2 +1,3 @@
 # YoutubeLiveTextGrabber
 
+This was built to be a module that will be integrated into a bigger project I am working on. For now it's using youtube-chat-next which has the advantage of not needing an API key and thus is a lot easier to use, but it is also subject to unexpected breakages if youtube changes how their platform works and thus I will probably be trying to make a version of this that just works with the youtube API itself sometime in the near future.
