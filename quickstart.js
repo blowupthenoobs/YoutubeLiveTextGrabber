@@ -126,7 +126,7 @@ function getChannel(auth) {
     auth: auth,
     key: API_KEY,
     part: 'snippet,contentDetails,statistics',
-    forUsername: 'GoogleDevelopers'
+    forHandle: '@blowupthenoobs'
   }, function(err, response) {
     if (err) {
       console.log('The API returned an error: ' + err);
